@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-section-card {
+    background-color: #fb4e71;
+    height: 30vh;
+    padding: 15px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+}
+
+.top-section-card-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.top-section-card-paragraph {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.top-section-image {
+    height: 25vh;
+    width: 15vh;
+}
+
+.bottom-section-card{
+    background-color:#e6f6ff;
+
+    
+}
+
+.side-headings{
+    font-family:"Roboto";
+    font-size:18px;
+    font-weight:bold;
+    padding:15px;
+}
+
+.bottom-section-card-2{
+    background-color:#ffffff;
+    margin:15px;
+    border-radius:10px;
+    
+}
+.bottom-section-card2-image{
+    height:20vh;
+    width:15vh;
+}
+
+.bottom-section-card2-heading{
+    font-family:"Roboto";
+    font-size:15px;
+    margin-left:15px;
+    margin-top:15px;
+    color:green;
+
+}
+
+.bottom-section-card2-paragraph{
+    font-family:"Roboto";
+    font-size:12px;
+    color:#888888;
+    margin-left:15px;
+}
+
+.viedos-secton-image{
+    height:15vh;
+    width:15vh;
+
+}
+
+.viedos-section-paragraph{
+    font-family:"Roboto";
+    font-size:12px;
+    
+}
+
+.button{
+    background-color:skyblue;
+    border-width:0;
+    border-radius:10px;
+    height:32px;
+    width:120px;
+    color:#ffffff;
+    margin:20px;
+}
+
+.centered{
+    text-align:center;
+}
